@@ -1,16 +1,25 @@
-## Hi there 👋
+<h2 align="center">👋 Hi, I'm Abhinash Kumar</h2>
 
-<!--
-**AbhinashKr45/AbhinashKr45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+Computer Science Student | Java • DSA • Web Development
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+- 🌱 Currently learning *Java, DSA, and Web Development*
+- 🧠 Improving coding skills daily and exploring new technologies
+- 💻 Beginner on GitHub, building my profile step by step
+- 🎯 Aim: Become a skilled developer and work on real-world projects
+
+---
+
+### 🛠️ Tech Stack (Learning & Using)
+- *Languages:* Java, C, Python (beginner)
+- *Web:* HTML, CSS, JavaScript
+- *Tools:* Git, GitHub, VS Code, IntelliJ IDEA
+
+---
+
+⭐ *Thanks for visiting my profile! More updates are coming soon…*
+
