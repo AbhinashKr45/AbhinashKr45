@@ -15,11 +15,19 @@ Computer Science Student | Java • DSA • Web Development
 ---
 
 ### 🛠️ Tech Stack (Learning & Using)
-- *Languages:* Java, C, Python (beginner)
-- *Web:* HTML, CSS, JavaScript
-- *Tools:* Git, GitHub, VS Code, IntelliJ IDEA
+- **Languages:** Java, C, C++, Python  
+- **Web:** HTML, CSS, JavaScript  
+- **Tools:** Git, GitHub, VS Code, IntelliJ IDEA  
+
+---
+
+### 📬 Contact
+
+📌 **LinkedIn:**  
+<a href="https://linkedin.com/in/abhinash-kumar-25143a378" target="_blank">
+  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30px" alt="LinkedIn Logo">
+</a>
 
 ---
 
 ⭐ *Thanks for visiting my profile! More updates are coming soon…*
-
