@@ -23,19 +23,14 @@ Computer Science Student | Java • DSA • Web Development
 
 ### 📬 Contact  
 
-<p style="margin: 0; padding: 0;">
-  <strong>LinkedIn:</strong>
-  <a href="https:linkedin.com/in/abhinash-kumar-25143a378" target="_blank" style="text-decoration:none;">
-    <img 
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" 
-      width="24" 
-      style="vertical-align: middle; margin-left: 6px;"
-    >
-  </a>
+<p style="font-size: 20px; font-weight: 600;">
+    LinkedIn:
+    <a href="https://linkedin.com/in/abhinash-kumar-25143a378" target="_blank">
+        <img src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png"
+             alt="LinkedIn"
+             style="width:28px; height:28px; vertical-align:middle; margin-left:8px;">
+    </a>
 </p>
-
-
-
 
 ---
 
